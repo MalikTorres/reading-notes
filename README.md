@@ -31,6 +31,6 @@ Engage with my peers and make sure to be active about asking questions when I ne
 Allow myself time to step away from the content to refresh mentally with the material I am learning to avoid burnout and stay focused on my growth. As burnout can lead to a fixed mindset.
 
 
-References below: 
+*References below:*
 
 [My Github portfolio page](https://maliktorres.github.io/reading-notes/)
