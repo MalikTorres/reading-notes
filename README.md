@@ -33,4 +33,4 @@ Allow myself time to step away from the content to refresh mentally with the mat
 
 *References below:*
 
-[My Github portfolio page](https://maliktorres.github.io/reading-notes/)
+[My Github portfolio page](https://github.com/maliktorres)
