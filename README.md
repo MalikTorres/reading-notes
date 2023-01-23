@@ -1,6 +1,6 @@
 # reading-notes
 
-My reading journal for Code Fellows
+Code Fellows Journal
 
 My name is Malik and I am excited to learn more about software development!
 
