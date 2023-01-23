@@ -4,6 +4,9 @@ My reading journal for Code Fellows
 
 My name is Malik and I am excited to learn more about software development!
 
+![This is an image](https://user-images.githubusercontent.com/96396508/214138958-5eb60e86-bb58-4381-9e37-fb14f66a526e.jpg)
+
+
 
 ## What Growth Mindset means to me
 
@@ -13,16 +16,20 @@ Below are a list of my reminders to maintain the growth mindset:
 
 * First Reminder:
   
-  When I am feeling frustrated about my progress make sure to look back at my notes and remember how far I have come. It is very mportant to not be discouraged by imposter syndrome.
+When I am feeling frustrated about my progress make sure to look back at my notes and remember how far I have come. It is very mportant to not be discouraged by imposter syndrome.
   
 
 
 * Second Reminder: 
 
+Engage with my peers and make sure to be active about asking questions when I need help. Set a timer for myself when I am stuck to make sure I am asking questions after I have hit a roadblock.
 
 
 
 * Third Reminder: 
+
+Allow myself time to step away from the content to refresh mentally with the material I am learning to avoid burnout and stay focused on my growth. As burnout can lead to a fixed mindset.
+
 
 References below: 
 
