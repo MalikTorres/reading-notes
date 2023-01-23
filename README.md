@@ -13,6 +13,7 @@ Below are a list of my reminders to maintain the growth mindset:
 
 * First Reminder:
   
+  When I am feeling frustrated about my progress make sure to look back at my notes and remember how far I have come. It is very mportant to not be discouraged by imposter syndrome.
   
 
 
@@ -25,4 +26,4 @@ Below are a list of my reminders to maintain the growth mindset:
 
 References below: 
 
-https://maliktorres.github.io/reading-notes/ 
+[https://maliktorres.github.io/reading-notes/]
