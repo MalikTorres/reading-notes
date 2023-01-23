@@ -26,4 +26,4 @@ Below are a list of my reminders to maintain the growth mindset:
 
 References below: 
 
-[My Github portfolio page] (https://maliktorres.github.io/reading-notes/)
+[My Github portfolio page](https://maliktorres.github.io/reading-notes/)
