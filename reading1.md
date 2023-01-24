@@ -18,3 +18,10 @@ This is an outline of my notes from the readings about Markdown.
 1. Periods are best for list in place of paranthesis, as they are not always supported. 
 2. Indent to create a nested list
 3. Code blocks are normally indented four spaces.
+
+
+**Things I would like to more about**
+
+* Is when is it more effective to add more stylization to my markdown 
+
+* Does inline styling with CSS add more clutter
