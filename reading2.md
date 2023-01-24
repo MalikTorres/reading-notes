@@ -38,6 +38,11 @@
 **Integrated Development Enviornment**
 + IDE's: Text Editor, File manager, compiler, and debugger 
 
+**Things I would like to know more about**
+
++ How to get the most utilization out of my text editor 
+
++ are their aspects beyond extensions and syntax highlighting 
   
   
 
