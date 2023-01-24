@@ -44,5 +44,9 @@ _Files need to be seen as single line arguements within the terminal_
 
 * `..` can be used to access parent directory 
 
-* `cd` change directory
+* `cd` change directory 
+
+* `ls` list contents of a directory
+
+* use tab to auto complete 
 
