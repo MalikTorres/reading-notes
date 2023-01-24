@@ -23,7 +23,20 @@
 
 + Notepad++ 
     + Windows only text editor
-+ Text
++ Text Wrangler//BB Edit
+    + Former Mac only text editor
++ BB Edit
++ Visual Studio Code
+    + Microsoft developed text editor for Linux, Mac, and Windows. 
+    + Complete with extensions
++ Atom
+    + Developed by GitHub
++ Brackets 
+    + Only supports CSS, HTML, and Javascript
++ Sublime Text 
+
+**Integrated Development Enviornment**
++ IDE's: Text Editor, File manager, compiler, and debugger 
 
   
   
