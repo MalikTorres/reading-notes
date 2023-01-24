@@ -50,3 +50,11 @@ _Files need to be seen as single line arguements within the terminal_
 
 * use tab to auto complete 
 
+**What I would like to know more about** 
+
+* Git commands to edit specific commits
+
+* In general commands to make edits within my terminal after mistyping a command
+
+
+
