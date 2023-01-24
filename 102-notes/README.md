@@ -10,5 +10,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 **Table of Contents** 
 
+[Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
