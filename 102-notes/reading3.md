@@ -26,5 +26,9 @@
 
 * `git remote` command allows you to view the short names of remote handles
 
-* `git remote -v` command allows viewrship of all the remote URL's along with their corresponding names.  
+* `git remote -v` command allows viewrship of all the remote URL's along with their corresponding names.   
+
+## Things I want to learn more about
+
+* All the different git commands
 
