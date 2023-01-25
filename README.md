@@ -30,7 +30,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 ### 201 Readings
 
-[Reading 1](102-notes/reading1.md)
+[Reading 1](201-notes/reading1.md)
 
 [Reading 2](201-notes/reading2.md)
 
