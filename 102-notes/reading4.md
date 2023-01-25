@@ -44,9 +44,7 @@ _Research_ is an important component to planning out wirefram as it is very impo
 
 * It reflects proper element naming
 
-
-
-* HTML semantics include: 
+**HTML semantics include:** 
 
 * `<h1>`
 
