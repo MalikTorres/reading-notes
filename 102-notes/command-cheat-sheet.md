@@ -50,6 +50,44 @@ _Files need to be seen as single line arguements within the terminal_
 
 * use tab to auto complete 
 
+* `git config` allows the setting of configuration variables
+
+* `git config --global user.name` to verify correct name
+
+* `git config --global user.email` to verify correct email
+
+* `-global` settings apply to anything ont he system
+
+* `git config --list` to check settings 
+
+* `git help` command for help
+
+* `git` command `--help`
+
+**Importing** 
+
+* Switch to the target projects's directory `cd`
+
+* Use the git init command `git init` 
+
+**Tracking not commenced after creating subdirectory named .git** 
+
+_To track perform `git add` and `git commit` 
+
+`git clone` to copy an existing Git repository from a particular server by using the `git clone` command and URL
+
+**Local Repository structure**
+
+* Working directory: Where files are
+
+* Index: Stage area
+
+* Head: Points to the most recent commit 
+
+* `git stash` to remove unwanted commits 
+
+* `git stash apply` to retrive stashed commands
+
 **Things I would like to know more about** 
 
 * Git commands to edit specific commits
