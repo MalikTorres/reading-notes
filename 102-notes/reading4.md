@@ -40,5 +40,9 @@ _Research_ is an important component to planning out wirefram as it is very impo
 
 * `<footer>`
 
-* `<article>`
+* `<article>` 
+
+## Things I want to learn more about
+
+* semantics in other coding langugages 
     
