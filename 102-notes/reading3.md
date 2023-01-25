@@ -18,7 +18,9 @@
 
 * Every file change is tracked by git. 
 
-* Main Git states are **commited** and **Modified**
+* Main Git states are **commited** , **Modified** , and **staged** 
+
+* 
 
 ## Remotes
 
