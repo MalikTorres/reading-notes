@@ -10,7 +10,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 ## **Table of Contents**
 
-### 102 Readings
+### 102 Readings 
 
 [Learning MarkDown](102-notes/reading1.md)
 
@@ -60,3 +60,4 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [reading 15](201-notes/reading7.md)
 
+[My GitHub](https://github.com/)
