@@ -10,7 +10,7 @@
 
 * **Distributed Version Control(DVCS)** This established mirror repositories to remedy the risk that came with using a single server
 
-**GIT** 
+## GIT
 
 * Git is a DVCS that allows real time snapshots of each changed version of the project that is being worked on. 
 
@@ -20,7 +20,19 @@
 
 * Main Git states are **commited** , **Modified** , and **staged** 
 
-* 
+**History of Git**
+
+* Git has been the most utilized version control ssytem since 2005 
+
+**Accessing GIT** 
+
+* Git Can be accessed through the terminal if you're using macOS
+
+**Graphical Clients** 
+
+* Git includes GUI
+
+* Git is customizable 
 
 ## Remotes
 
