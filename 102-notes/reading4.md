@@ -30,7 +30,21 @@ _Research_ is an important component to planning out wirefram as it is very impo
 
 ## Semantics 
 
-* Semantics refer the meaning of a piece of code
+* Semantics refer the meaning of a piece of code 
+
+**Importance of Semantics** 
+
+* Semantics can boost search engine optimization 
+
+* It helps with screen reader navigation 
+
+* It makes it easier and more efficient to navitate through code im comparison to placeholder elements like `<div>`
+
+* It provides insight to the developer the type of date that will appear
+
+* It reflects proper element naming
+
+
 
 * HTML semantics include: 
 
@@ -41,6 +55,16 @@ _Research_ is an important component to planning out wirefram as it is very impo
 * `<footer>`
 
 * `<article>` 
+
+* `<figure>`
+
+* `<main>`
+
+* `<mark>`
+
+* `<nav>`
+
+* `<section>`
 
 ## Things I want to learn more about
 
