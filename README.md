@@ -11,20 +11,22 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 ## 102 Readings
 
-[Definitions of Proficiencies](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies)
+[Reading 1](102-notes/reading1.md)
 
-[Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[Reading 2](102-notes/reading2.md)
 
-[Learning Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+[Reading 3](102-notes/reading3.md) 
 
-[Getting Started With Github Pages ](https://docs.github.com/en/pages/quickstart)
+[Reading 4 ](102-notes/reading4.md)
 
-[Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+[reading 5](102-notes/reading5.md)
 
-[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+[reading 6](102-notes/reading6.md)
 
-[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php) 
+[reading 7](102-notes/reading7.md) 
 
-[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+[reading 8](102-notes/reading8.md)
 
 ## 201 Readings
+
+[]
