@@ -8,15 +8,30 @@
 
 ### Principles of Wireframe
 
-* Clarity
+* Clarity: Answer the questions of what the site is 
 
-* Confidence
+* Confidence: Building user and brand confidence
 
-* Simplicity is key  
+* Simplicity is key: There should not be too much clutter that is distracting to the user.
 
 _Research_ is an important component to planning out wirefram as it is very important to understand the user prior to wireframing.
 
-* It is easier to make changes during wireframe compared to changes to code.  
+* It is easier to make changes during wireframe compared to 
+changes to code.  
+
+## Wireframe steps
+
+* Research 
+
+* Prepare research for reference 
+
+* Sketch 
+
+* Add some details for testing 
+
+* Turn wireframs into prototypes 
+
+* Create a cheatsheet with user personas 
 
 ## HTML
 
