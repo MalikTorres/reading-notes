@@ -36,5 +36,42 @@ _Example:_  **Background and Borders**
 
 **CSS is developed by CSS Working Group** 
 
+## Common Methods of Adding CSS 
 
+### External CSS 
+
+_Can be used to change entire website_
+> 
+     `<link rel="stylesheet" href="mystyle.css">`
+>  
+
+**Must be saved with .css**
+
+### Internal CSS 
+
+_Typycally used to style one particular page_
+
+> 
+    `<style>
+    body {
+        background-color: linen; 
+    }
+    h1 {
+        color: maroon;
+        margin left: 40px;
+    }
+    </style>`
+
+> 
+
+### Inline CSS
+
+
+  `<h1 style="color: blue; text-align: center;">This is a heading</h1>` 
+
+
+
+_Single style for a single element typycally used to add style to a specific element_
+
+**Example:** 
 
