@@ -34,9 +34,11 @@ _Research_ is an important component to planning out wirefram as it is very impo
 
 * HTML semantics include: 
 
-```
-    * `<h1>`
-    * `<header>`
-    * `<footer>`
-    * `<article>`
+* `<h1>`
+
+* `<header>`
+
+* `<footer>`
+
+* `<article>`
     
