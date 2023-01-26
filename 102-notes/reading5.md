@@ -8,7 +8,7 @@
 
 **Presenting** a document to user means coverting it into a usable form
 
-_Browser is at times referred to as **user agent(a computer program that represents a person inside a computer system)** 
+_Browser is at times referred to as **user agent(a computer program that represents a person inside a computer system)**_ 
 
 ## CSS Syntax 
 
@@ -16,10 +16,10 @@ Css is a rule based language which means that the rules are defined by specifing
 
 **Code Example** 
 
-> `h1 {
+> h1 {
     color: red;
     font-size: 5em
-}`
+}
 
 >  
 **Explanation of example**
@@ -66,12 +66,15 @@ _Typycally used to style one particular page_
 
 ### Inline CSS
 
+> 
+     <h1 style="color: blue; text-align: center;">This is a heading</h1>
 
-  `<h1 style="color: blue; text-align: center;">This is a heading</h1>` 
-
+> 
 
 
 _Single style for a single element typycally used to add style to a specific element_
 
-**Example:** 
+## Things I want to know more about 
+
+How much can be accomplished with CSS before making the webpage dynamic and interactive
 
