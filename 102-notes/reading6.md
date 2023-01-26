@@ -32,7 +32,7 @@ Traditionally JavaScript used to only run on the client side and not the server 
 
 _JavaScript file can be linked with `<script>`
 
-## Common Functions for browser outputs
+### Some Functions for browser outputs
 
 * `alert()`
 
@@ -48,7 +48,7 @@ _JavaScript file can be linked with `<script>`
 
 `document.write() method can be used to update the html file with text`
 
-## DATA TYPES
+### DATA TYPES
 
 * `"strings"`
 
