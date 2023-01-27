@@ -23,3 +23,5 @@
 `document.write("Please click the link above which has great restaurant suggestions");`
 `}`
 
+`&&`
+`||`
