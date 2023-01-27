@@ -1,36 +1,38 @@
+## Reading 7 
+
+### JavaScript Expressions and Opertors  
+
+***Control Flow is the order in which code executes**
 
 
+* Assignment Operators
 
+* Comparason Operators 
 
-`if (cookingFrequency <= veryFrequent && cookingFrequency > semiFrequent) {`
+* Arithmic Operators
 
-`document.write("A sous vide would be a valuable project to take your cooking to the next level");`
+* Bitwise Operators 
 
+* String Operators 
 
-`} else if (cookingFrequency <= semiFrequent && cookingFrequency > leastFrequent) {`
+* Comma Operators 
 
+* Relational Operators
 
-`document.write("An instapot would be the perfect addtion to your kitchen!");`
+_These are only some of the JavaScript operators there are many more_ 
 
+**precedence** operators determine the order in which they are applied
 
-`} else if (cookingFrequency <= leastFrequent) {`
+operators like `!` and `typeof` are prefix opertors 
 
+Additional operators include:
 
-`document.write("Perhaps start off with a chefs knife");`
+`||`: OR
 
+`&&`; AND
 
-`} else {`
-`document.write("Please click the link above which has great restaurant suggestions");`
-`}`
+`!` ; NOT
 
-`&&`
-`||` 
+## Functions
 
-`if(!nameConfirm) {`
-    
-    `howOftenDoYouCook(prompt('Error! Please enter your name to continue'));`
-   
-`} else {`
-
-      `alert("Hi" + " " + nameConfirm + "!" + " " + "Please click OK to continue");`
-`}`
+A set of states that perform a task or return a value; 
