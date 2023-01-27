@@ -24,4 +24,13 @@
 `}`
 
 `&&`
-`||`
+`||` 
+
+`if(!nameConfirm) {`
+    
+    `howOftenDoYouCook(prompt('Error! Please enter your name to continue'));`
+   
+`} else {`
+
+      `alert("Hi" + " " + nameConfirm + "!" + " " + "Please click OK to continue");`
+`}`
