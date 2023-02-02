@@ -275,3 +275,7 @@ Operator  Description  Example   Same as         Result    Decimal
 >
     &       AND         5 & 1     0101 & 0001      0001       1 
   
+
+### Things I would like to know more about
+
+*When would it make sense to use a bitwise operator
