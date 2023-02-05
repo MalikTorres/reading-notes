@@ -10,7 +10,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 ## **Table of Contents**
 
-### 102 Readings 
+### Code 102 - Intro to Software Development
 
 [Learning MarkDown](102-notes/reading1.md)
 
@@ -28,7 +28,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Operators and Loops](102-notes/reading8.md)
 
-### 201 Readings
+### Code 201 - Foundations to Software Development
 
 [Reading 1](201-notes/reading1.md)
 
@@ -60,4 +60,9 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [reading 15](201-notes/reading7.md)
 
-[My GitHub](https://github.com/)
+[My GitHub](https://github.com/) 
+
+### Code 301 - Intermediate Software Development
+
+
+### Code 401 - Advanced Software Development
