@@ -79,7 +79,7 @@ DNS created to establish readable IP addresses
 
 **JavaScript adds interactivity to your website**  
 
-#### APIs 
+#### APIs(Aplication Programming Interfaces)
 
 * Browser Applicatiojn Programming Interfaces(APIs), users webcam, generating 3D grapics, or audio samples
 
@@ -112,15 +112,15 @@ DNS created to establish readable IP addresses
 
 #### Data Types
 
-**String**  `let myVariable = "Bob";`
+**String**  `let myVariable = "Bob";` Any text wrapped in single or double quotes
 
-**Number**   `myVarible = 4`
+**Number**   `myVarible = 4` Any number
 
-**Boolean** `let myVariable = true;` 
+**Boolean** `let myVariable = true;`  True or False value
 
-**Array**    `let myVariable = [1,'Bob', 'steve',10]`
+**Array**    `let myVariable = [1,'Bob', 'steve',10]` structure to store multple values
 
-**Object**  `let myVariable = document.querySelector('h1');`
+**Object**  `let myVariable = document.querySelector('h1');` anything is object in JavaScript
 
 > 
     const new york = {
@@ -138,6 +138,7 @@ DNS created to establish readable IP addresses
 
     // This is a comment
 >  
+#### Questions 
 
 1. HTTP
     defines
@@ -332,7 +333,7 @@ _Can use meta to add author and description_
     `defer`: load JS after html is parsed
 >
 
-### Summary
+#### Questions
 
 1. Attributes are additional information about the element
 2. The anatomy of an html element begins with opening tags, has content in the middle, then closing tags.
@@ -341,6 +342,60 @@ _Can use meta to add author and description_
 5. meta keywords can boost pages SEO
 6. typycally for descriptions 
 
+#### What is JavaScript
+
+High level programming language that makes web pages dynamic
+
+**APIS continued**
+
+**Browser APIS**
+* DOM(Document object model API) allows you to manipulate HTML and CSS, creating and changing HTML, and dynamically applying new styles to the page
+
+* Geolocation API(retreieves geographical information)
+
+* Canvas and WebGL APIS allow 2D and 3D graphics
+
+* Audio and video APIS allow multipmedia
+
+**Third Party APIs**
+
+* Twitter API
+
+* Google Maps API
+
+**Event Listeners** Initiates event once process has occured
+
+`async` and `defer` both instruct the browser to download the script(s) in a separate thread, while the rest of the page(DOM), is downloading so the page that is loading is not blocked during the fetch process
+
+
+#### Miscellaneous 
+
+ What is the first step to designing a Website?
+
+* Project Ideation(What is looking to be accomplished 
+
+What is the most important question to answer when designing a Website?
+
+* What/How do I accomplish my goals with a website
+
+Why should you use an `<h1>` element over a `<span>` element to display a top level heading? 
+
+* `<h1>` signifies that the content displayed is an important element that is acting as a header and has benefits such as improved searching capacity.
+
+What are the benefits of using semantic tags in our HTML?
+
+* sementics act as important keywords and can improve SEO. They can also help with page navigation. 
+
+Describe 2 things that require JavaScript in the Browser?
+* To implement features that come from an API
+
+* Adhere to `events` that you want to run on your page
+
+How can you add JavaScript to an HTML document?
+
+* Inline using `<script>` or externally with a separate JavaScript file. 
+
 ### Things I would like to know more about
 
 What is a good ratio between non semantic elements and semantic elements
+
