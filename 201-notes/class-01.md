@@ -129,7 +129,7 @@ DNS created to establish readable IP addresses
         food: [bread, cheese, ham];
     }
 
-### Comments
+#### Comments
 
 >
     /* 
@@ -138,9 +138,9 @@ DNS created to establish readable IP addresses
 
     // This is a comment
 >  
-#### Questions 
+### Questions 
 
-1. HTTP
+1. HTTP (poem)
     defines
     a language
     to speak
