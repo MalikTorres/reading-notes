@@ -399,3 +399,7 @@ How can you add JavaScript to an HTML document?
 
 What is a good ratio between non semantic elements and semantic elements
 
+_references_ [What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) 
+
+[Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_document)
+
