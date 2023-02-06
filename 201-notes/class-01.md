@@ -131,13 +131,13 @@ DNS created to establish readable IP addresses
 
 #### Comments
 
->
-    /* 
+/* 
       Everty thing in between is a comment.
-    */ 
+*/ 
 
-    // This is a comment
->  
+ // This is a comment
+
+
 ### Questions 
 
 1. HTTP (poem)
