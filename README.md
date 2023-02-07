@@ -30,9 +30,9 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 ### Code 201 - Foundations to Software Development
 
-[Reading 1](201-notes/class-01.md)
+[HTML Semantics | JavaScript and the Browser](201-notes/class-01.md)
 
-[Reading 2](201-notes/class-02.md)
+[HTML Fundamentals, CSS Structure, JavaScript Comparason Operators](201-notes/class-02.md)
 
 [Reading 3](201-notes/reading3.md) 
 
