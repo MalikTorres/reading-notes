@@ -34,9 +34,9 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [HTML Fundamentals, CSS Structure, JavaScript Comparason Operators](201-notes/class-02.md)
 
-[Reading 3](201-notes/reading3.md) 
+[Learn HTML, Learn CSS, Learn JS](201-notes/class-03.md)
 
-[Reading 4 ](201-notes/reading4.md)
+[Reading 4](201-notes/reading4.md)
 
 [reading 5](201-notes/reading5.md)
 
