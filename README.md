@@ -36,7 +36,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Learn HTML, Learn CSS, Learn JS](201-notes/class-03.md)
 
-[Reading 4](201-notes/reading4.md)
+[Creating Hyberlinks, CSS Normal Flow, Functions Reusable Blocks of Code](201-notes/class-04.md)
 
 [reading 5](201-notes/reading5.md)
 
