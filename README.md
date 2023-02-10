@@ -38,7 +38,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Creating Hyberlinks, CSS Normal Flow, Functions Reusable Blocks of Code](201-notes/class-04.md)
 
-[Using images in HTML, Using Color in HTML](201-notes/reading5.md)
+[Using images in HTML, Using Color in HTML](201-notes/class-05.md)
 
 [reading 6](201-notes/reading6.md)
 
