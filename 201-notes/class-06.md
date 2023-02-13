@@ -55,3 +55,11 @@ Bracket notation can be used to accessed properties in the object if the propert
 
 >
 `this` is referring to the name property and age property.  
+
+### Things I want to know more about
+
+Using constructor functions
+
+References:
+
+*[JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
