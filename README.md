@@ -42,7 +42,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [JavaScript Object Basics](201-notes/class-06.md)
 
-[reading 7](201-notes/reading7.md)
+[Domain Modeling, HTML Table Basics, Instroducing Constructors](201-notes/class-07.md)
 
 [reading 8](201-notes/reading8.md)
 
