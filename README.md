@@ -44,7 +44,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Domain Modeling, HTML Table Basics, Instroducing Constructors](201-notes/class-07.md)
 
-[reading 8](201-notes/reading8.md)
+[CSS Flexbox, ](201-notes/class-08.md)
 
 [Reading 9](201-notes/reading1.md)
 
