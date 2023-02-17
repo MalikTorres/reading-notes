@@ -48,7 +48,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [HTML Forms, Events,](201-notes/class-09.md)
 
-[Reading 10](201-notes/reading2.md)
+[Debugging](201-notes/class-10.md)
 
 [Reading 11](201-notes/reading3.md)
 
