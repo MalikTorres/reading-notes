@@ -16,7 +16,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [The Coder's Computer](102-notes/reading2.md)
 
-[Revisions and the Cloud](102-notes/reading3.md) 
+[Revisions and the Cloud](102-notes/reading3.md)
 
 [Structure web pages with HTML](102-notes/reading4.md)
 
@@ -44,13 +44,13 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Domain Modeling, HTML Table Basics, Instroducing Constructors](201-notes/class-07.md)
 
-[CSS Flexbox, ](201-notes/class-08.md)
+[CSS Flexbox](201-notes/class-08.md)
 
 [HTML Forms, Events,](201-notes/class-09.md)
 
 [Debugging](201-notes/class-10.md)
 
-[Reading 11](201-notes/reading3.md)
+[Video, Audio, Grid,Responsive Images](201-notes/class-11.md)
 
 [Reading 12](201-notes/reading4.md)
 
@@ -60,7 +60,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [reading 15](201-notes/reading7.md)
 
-[My GitHub](https://github.com/) 
+[My GitHub](https://github.com/)
 
 ### Code 301 - Intermediate Software Development
 
