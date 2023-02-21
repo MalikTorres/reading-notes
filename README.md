@@ -52,7 +52,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Video, Audio, Grid,Responsive Images](201-notes/class-11.md)
 
-[Reading 12](201-notes/reading4.md)
+[JavaScript Canvas, Chart.js Documentation](201-notes/class-12.md)
 
 [reading 13](201-notes/reading5.md)
 
