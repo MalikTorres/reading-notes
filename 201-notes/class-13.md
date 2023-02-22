@@ -21,7 +21,9 @@ Local storage can store what type of data? How would you convert it to that type
 
   More about the usage of local storage.
 
+#### Local Storage Methods
 
+`setItem()` `getItem()` `removeItem()`
 
 #### References
 
