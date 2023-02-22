@@ -46,7 +46,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [CSS Flexbox](201-notes/class-08.md)
 
-[HTML Forms, Events,](201-notes/class-09.md)
+[HTML Forms, Events](201-notes/class-09.md)
 
 [Debugging](201-notes/class-10.md)
 
@@ -54,7 +54,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [JavaScript Canvas, Chart.js Documentation](201-notes/class-12.md)
 
-[reading 13](201-notes/reading5.md)
+[Local Storage](201-notes/class-13.md)
 
 [reading 14](201-notes/reading6.md)
 
