@@ -39,6 +39,7 @@
 
 * How this topic fit in with your long-term goals?
 
+  As I am looking to become a front end developer it is important that develop a better understanding on how to use CSS properties.
 
 #### Things I want to know more about
 
