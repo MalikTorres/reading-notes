@@ -56,7 +56,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Local Storage](201-notes/class-13.md)
 
-[reading 14](201-notes/reading6.md)
+[CSS Transitions and Animations](201-notes/class-14.md)
 
 [reading 15](201-notes/reading7.md)
 
