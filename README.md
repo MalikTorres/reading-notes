@@ -58,8 +58,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [CSS Transitions and Animations](201-notes/class-14.md)
 
-[reading 15](201-notes/reading7.md)
-
 [My GitHub](https://github.com/)
 
 ### Code 301 - Intermediate Software Development
