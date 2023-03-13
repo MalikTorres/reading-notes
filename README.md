@@ -62,5 +62,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 ### Code 301 - Intermediate Software Development
 
+[Component-Based Architecture, Props](301-notes/class-01.md)
 
 ### Code 401 - Advanced Software Development
