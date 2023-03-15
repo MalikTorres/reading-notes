@@ -59,7 +59,7 @@
         onst objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
           objectFour.laugh() // 😂😂😂😂😂
       > 
-      
+
 #### How to Pass Functions Between Components
 
 1. In the video, what is the first step that the developer does to pass functions between components?
@@ -77,3 +77,7 @@
 4. How does the child component invoke a method that was passed to it from a parent component? 
 
     You can access it with methods like `onClick`
+
+ #### Things I want to know more
+
+More ways to use functions with components
