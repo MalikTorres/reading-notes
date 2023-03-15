@@ -66,4 +66,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [React Lifecyle, React State Vs Props](301-notes/class-02.md)
 
+[lists and keys, The Spread Operator, How to Pass Functions Between Comonents](301-notes/class-03.md)
+
 ### Code 401 - Advanced Software Development
