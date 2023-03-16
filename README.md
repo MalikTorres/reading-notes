@@ -68,4 +68,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [lists and keys, The Spread Operator, How to Pass Functions Between Comonents](301-notes/class-03.md)
 
+[Forms, Ternary Operator](301-notes/class-04.md)
+
 ### Code 401 - Advanced Software Development
