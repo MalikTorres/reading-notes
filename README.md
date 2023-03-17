@@ -70,4 +70,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Forms, Ternary Operator](301-notes/class-04.md)
 
+[Thinking in React, Higher-Order Functions](301-notes/class-05.md)
+
 ### Code 401 - Advanced Software Development
