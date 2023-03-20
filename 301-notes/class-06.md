@@ -47,3 +47,7 @@ Engaged collaboration is what I have found the most beneficial, the time spent s
 How does pair programming work?
 
 Pair progamming typycally involves a driver and navigator, one person that codes and the other that provides direction.
+
+### Things I want to know more about
+
+How to use node.Js with frameworks
