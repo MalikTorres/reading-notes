@@ -74,4 +74,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [NodeJS, Pair Programming](301-notes/class-06.md)
 
+[REST](301-notes/class-07.md)
+
 ### Code 401 - Advanced Software Development
