@@ -79,4 +79,8 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [APIS](301-notes/class-08.md)
 
+[Functional Programming](301-notes/class-09.md)
+
+
+
 ### Code 401 - Advanced Software Development
