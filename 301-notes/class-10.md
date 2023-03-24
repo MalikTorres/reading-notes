@@ -16,7 +16,19 @@ What does LIFO mean?
 
 Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 
-![Callstack](reading-notes/CallStack.png)
+`function firstFunction(){
+  throw new Error('Stack Trace Error');
+}
+
+function secondFunction(){
+  firstFunction();
+}
+
+function thirdFunction(){
+  secondFunction();
+}
+
+thirdFunction();`
 
 What causes a Stack Overflow?
 
