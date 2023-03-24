@@ -16,7 +16,7 @@ What does LIFO mean?
 
 Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 
-![Callstack](301-notes/CallStack.png)
+![Callstack](reading-notes/301-notes/CallStack.png)
 
 What causes a Stack Overflow?
 
