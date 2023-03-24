@@ -81,7 +81,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Functional Programming](301-notes/class-09.md) 
 
-
+[Memory Storage](301-notes/class-10.md)
 
 
 
