@@ -87,4 +87,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [nosql vs sql](301-notes/class-11.md)
 
 
+[CRUD](301-notes/class-12.md)
+
 ### Code 401 - Advanced Software Development
