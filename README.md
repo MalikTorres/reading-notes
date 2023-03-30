@@ -91,4 +91,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [CRUD Basics, Speed Coding: Building CRUD API](301-notes/class-13.md)
 
+[DEI](301-notes/class-14.md)
+
 ### Code 401 - Advanced Software Development
