@@ -6,7 +6,7 @@ My name is Malik and I am excited to learn more about software development!
 
 **Intro** 
 
-This site is a collection of all of my notes overtime as I progress on my journey to becoming a software engineer. Below is a table of contents to navigate through the readings in each course. 
+This site is a collection of all of my notes overtime as I progress on my journey to becoming a software engineer. Below is a table of contents to navigate through the readings in each course.
 
 ## **Table of Contents**
 
@@ -96,3 +96,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [OAuth](301-notes/class-15.md)
 
 ### Code 401 - Advanced Software Development
+
+[Growth Mindset](/401-notes/growth-mindset.md)
