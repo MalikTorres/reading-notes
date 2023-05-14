@@ -100,4 +100,4 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Terminal](/401-notes/terminal.md)  
 
-[Node](401-notes/class1.md)
+[Node](/401-notes/class1.md)
