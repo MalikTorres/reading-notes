@@ -98,4 +98,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [SQL](/401-notes/sql-notes.md) 
 
-[Terminal](/401-notes/terminal.md)
+[Terminal](/401-notes/terminal.md)  
+
+[Node](401-notes/class-01.md)
