@@ -4,7 +4,7 @@ My reading journal for Code Fellows
 
 My name is Malik and I am excited to learn more about software development!
 
-**Intro** 
+**Intro**
 
 This site is a collection of all of my notes overtime as I progress on my journey to becoming a software engineer. Below is a table of contents to navigate through the readings in each course.
 
@@ -76,16 +76,13 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [REST](301-notes/class-07.md)
 
-
 [APIS](301-notes/class-08.md)
 
 [Functional Programming](301-notes/class-09.md)
 
-
 [Memory Storage](301-notes/class-10.md)
 
 [nosql vs sql](301-notes/class-11.md)
-
 
 [CRUD](301-notes/class-12.md)
 
@@ -97,4 +94,4 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 ### Code 401 - Advanced Software Development
 
-[Growth Mindset](/401-notes/growth-mindset.md)
+[Mindset](/401-notes/growth-mindset.md);
