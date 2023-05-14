@@ -97,3 +97,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Growth Mindset](/401-notes/growth-mindset.md)
 
 [SQL](/401-notes/sql-notes.md) 
+
+[Terminal](/401-notes/terminal.md)
