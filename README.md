@@ -94,4 +94,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 ### Code 401 - Advanced Software Development
 
-[Mindset](/401-notes/growth-mindset.md);
+[Growth Mindset](/401-notes/growth-mindset.md)
+
+[SQL](/401-notes/sql-notes.md) 
