@@ -16,6 +16,15 @@ A growth mindset can lead to a smarter approach when learning new material. We'r
 Expectations tend to create a destructive outlook about success. Overtime, humanity has characterized success based on numerous theories that have become rigid. This has become highlighted in the increasing pressures surrounding careers. These perspectives have become counter productive towards well being. 
 
 
+#### Emotional Intelligence
+
+Throughout this course and prior, my emotional intelligence has remained consistent. An area I look to grow would be my confidence and speak up more if I have an idea.
+
+#### Bias
+
+My results from the assessment were what I assumed they would be. I  want to continue to make sure that I speak out if I notice workplace biases or if I am on the receiving end of any biases.
+
+
 ## Things I want to know more about
 
 Different methods of incorperating the growth mindset into workflows
