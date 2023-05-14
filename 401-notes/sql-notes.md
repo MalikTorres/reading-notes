@@ -53,7 +53,7 @@ Operator
 
 **The importance of the relationship aspect in relational databases is that it allows data that's store to have connection to other tables. If there weren't relationships all the data would be in one larg
 
-![Task 1](/reading-notes/401-notes/Task1.png)
+![Task 1](/reading-notes/401-notes/Excercise1.png)
 
 ![Task 2](/reading-notes/401-notes/Task2.png)
 
