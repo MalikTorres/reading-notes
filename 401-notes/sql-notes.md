@@ -51,18 +51,15 @@ Operator
 != not equal
 <> not equal
 
-**The importance of the relationship aspect in relational databases is that it allows data that's store to have connection to other tables. If there weren't relationships all the data would be in one large table.**
-
-### Screenshots 
-
-![Task 1](/Users/malik/projects/courses/reading-notes/401-notes/Task-1.png)
-![Task 2](/Users/malik/projects/courses/reading-notes/401-notes/Task-2.png)
-![Task 3](/Users/malik/projects/courses/reading-notes/401-notes/Task-3.png)
-![Task 4](/Users/malik/projects/courses/reading-notes/401-notes/Task-4.png)
-![Task 5](/Users/malik/projects/courses/reading-notes/401-notes/Task-5.png)
-![Task 13](/Users/malik/projects/courses/reading-notes/401-notes/Task-13.png)
-![Task 14](/Users/malik/projects/courses/reading-notes/401-notes/Task-14.png)
-![Task 15](/Users/malik/projects/courses/reading-notes/401-notes/Task-15.png)
-![Task 16](/Users/malik/projects/courses/reading-notes/401-notes/Task-16.png)
-![Task 17](/Users/malik/projects/courses/reading-notes/401-notes/Task-17.png)
-![Task 18](/Users/malik/projects/courses/reading-notes/401-notes/Task-18.png)
+**The importance of the relationship aspect in relational databases is that it allows data that's store to have connection to other tables. If there weren't relationships all the data would be in one larg
+![Task 1](/reading-notes/401-notes/Task-1.png)
+![Task 2](/reading-notes/401-notes/Task-2.png)
+![Task 3](/reading-notes/401-notes/Task-3.png)
+![Task 4](/reading-notes/401-notes/Task-4.png)
+![Task 5](/reading-notes/401-notes/Task-5.png)
+![Task 13](/reading-notes/401-notes/Task-13.png)
+![Task 14](/reading-notes/401-notes/Task-14.png)
+![Task 15](/reading-notes/401-notes/Task-15.png)
+![Task 16](/reading-notes/401-notes/Task-16.png)
+![Task 17](/reading-notes/401-notes/Task-17.png)
+![Task 18](/reading-notes/401-notes/Task-18.png)
