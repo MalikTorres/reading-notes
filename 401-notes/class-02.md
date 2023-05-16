@@ -45,6 +45,9 @@ What are three expected benefits of testing
 
 Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
 
+  - Writing too many test
+  - Writing test that are too large
+
 ### CI/CD
 
 What are three benefits of Continuous Integration?
