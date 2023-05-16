@@ -53,24 +53,24 @@ Operator
 
 **The importance of the relationship aspect in relational databases is that it allows data that's store to have connection to other tables. If there weren't relationships all the data would be in one larg
 
-![Task 1](/reading-notes/401-notes/Excercise1.png)
+![Task 1](/401-notes/assets/Excercise1.png)
 
-![Task 2](/reading-notes/401-notes/Task2.png)
+![Task 2](/401-notes/assets/Task2.png)
 
-![Task 3](/reading-notes/401-notes/Task3.png)
+![Task 3](/401-notes/assets/Task3.png)
 
-![Task 4](/reading-notes/401-notes/Task4.png)
+![Task 4](/401-notes/assets/Task4.png)
 
-![Task 5](/reading-notes/401-notes/Task5.png)
+![Task 5](/401-notes/assets/Task5.png)
 
-![Task 13](/reading-notes/401-notes/Task13.png)
+![Task 13](/401-notes/assets/Task13.png)
 
-![Task 14](/reading-notes/401-notes/Task14.png)
+![Task 14](/401-notes/assets/Task14.png)
 
-![Task 15](/reading-notes/401-notes/Task15.png)
+![Task 15](/401-notes/assets/Task15.png)
 
-![Task 16](/reading-notes/401-notes/Task16.png)
+![Task 16](/401-notes/assets/Task16.png)
 
-![Task 17](/reading-notes/401-notes/Task17.png)
+![Task 17](/401-notes/assets/Task17.png)
 
-![Task 18](/reading-notes/401-notes/Task18.png)
+![Task 18](/401-notes/assets/Task18.png)
