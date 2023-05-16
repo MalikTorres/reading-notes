@@ -103,3 +103,7 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Node](/401-notes/class-01.md)
 
 [Node, CI CD, NPM](/401-notes/class-02.md)
+
+[DSA](/401-notes/DSA-01.md)
+
+[Eng notes](/401-notes/eng-readings.md)
