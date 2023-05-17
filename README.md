@@ -107,3 +107,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [DSA](/401-notes/DSA-01.md)
 
 [Eng notes](/401-notes/eng-readings.md)
+
+[Middleware](/401-notes/class-03.md)
