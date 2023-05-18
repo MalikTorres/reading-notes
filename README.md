@@ -109,3 +109,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Eng notes](/401-notes/eng-readings.md)
 
 [Middleware](/401-notes/class-03.md)
+
+[Data Modeling](/401-notes/class-04.md)
