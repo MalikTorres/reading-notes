@@ -111,3 +111,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Middleware](/401-notes/class-03.md)
 
 [Data Modeling](/401-notes/class-04.md)
+
+[Linked List](/401-notes/linked-list.md)
