@@ -47,3 +47,7 @@ I'm interested in learning more about authentification
 What are your learning goals after reading and reviewing the class README?
 
 Become a better problem solver
+
+### Things I want to know more about
+
+Implementing authentication into middleware
