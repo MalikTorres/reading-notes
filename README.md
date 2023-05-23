@@ -115,3 +115,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Linked List](/401-notes/linked-list.md)
 
 [Authentication](/401-notes/class-05.md) 
+
+[JWT](/401-notes/class-07.md) 
