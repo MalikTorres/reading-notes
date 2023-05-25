@@ -120,3 +120,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 
 [RBAC](/401-notes/class-08.md) 
+
+[Project Ideas](/401-notes/project-ideas.md)
