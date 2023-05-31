@@ -126,3 +126,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Stacks and Queues](/401-notes/stacks-queus.md)
 
 [Events](/401-notes/class-09.md)
+
+[Socket](/401-notes/class-12.md)
