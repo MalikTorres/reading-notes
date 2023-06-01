@@ -129,4 +129,4 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Socket](/401-notes/class-12.md)
 
-[Message Queues]()
+[Message Queues](/401-notes/class-13.md)
