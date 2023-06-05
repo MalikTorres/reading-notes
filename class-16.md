@@ -51,4 +51,4 @@ How to use AWS
 
 What are your learning goals after reading and reviewing the class README?
 
-A better understanding of cloud computing
+A better understanding of cloud computing.
