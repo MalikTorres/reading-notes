@@ -18,18 +18,28 @@
 ### EC2 For Humans
 
 1. Where can we find EC2 on the AWS Console?
+    
     In the compute system section
+
 2. Explain the general difference between T2 Micro and XL.
+    
+    
     T2 micro is a smaller instance size compared to XL. XL are much larger and powerful instances.
+
 3. Explain a “Compute Cycle” to a non-technical friend.
+    
     It can be interpreted as a series of steps that the computer goes through.
 
 ### Elastic Beanstalk
 
 1. What is Elastic Beanstalk?
+    
     Esay to use service that deploys and scales services for you
+
 2. Describe the relationship between EC2 and Elastic Beanstalk.
+  
   It leverages EC2.
+
 3. Name some benefits of using Elastic Beanstalk.
   Easy to manage and scale applications
 
