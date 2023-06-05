@@ -132,3 +132,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Message Queues](/401-notes/class-13.md)
 
 [Cap Project Ideas](/401-notes/cap-projects.md)
+
+[AWS]()
