@@ -133,3 +133,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Cap Project Ideas](/401-notes/cap-projects.md)
 
 [AWS](/401-notes/class-16.md)
+
+
+[Amazon S3](/401-notes/class-17.md)
