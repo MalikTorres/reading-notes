@@ -136,3 +136,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 
 [Amazon S3](/401-notes/class-17.md)
+
+[Dynamo](/401-notes/class-18.md)
