@@ -114,11 +114,11 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Linked List](/401-notes/linked-list.md)
 
-[Authentication](/401-notes/class-05.md) 
+[Authentication](/401-notes/class-05.md)
 
-[JWT](/401-notes/class-07.md) 
+[JWT](/401-notes/class-07.md)
 
-[RBAC](/401-notes/class-08.md) 
+[RBAC](/401-notes/class-08.md)
 
 [Project Ideas](/401-notes/project-ideas.md)
 
@@ -134,9 +134,10 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [AWS](/401-notes/class-16.md)
 
-
 [Amazon S3](/401-notes/class-17.md)
 
 [Dynamo](/401-notes/class-18.md)
 
 [SQS and SNS](/401-notes/class-19.md)
+
+[Component Based UI](/401-notes/class-26.md)
