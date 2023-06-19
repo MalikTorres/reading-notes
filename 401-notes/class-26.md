@@ -86,3 +86,7 @@ Having a better grasp of React
 #### What are your learning goals after reading and reviewing the class README?
 
 Writing functional components
+
+#### Things I want to know more about
+
+How to manage state in React and Hooks
