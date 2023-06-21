@@ -141,3 +141,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [SQS and SNS](/401-notes/class-19.md)
 
 [Component Based UI](/401-notes/class-26.md)
+
+[Hooks](/401-notes/class-27.md)
