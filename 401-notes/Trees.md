@@ -61,6 +61,23 @@ Pre-order means that the `root` has to be looked at first. In our case looking a
 
 Next, we start reading out `preOrder` functions code from top to bottom. The first line of code reads this 
 
-![preorder](/401-notes/assets/pre3.png) 
+![preorder](/401-notes/assets/pre4.png) 
 
-This means that we will out the `root.value` pit tp tje console. Then, our next block of code instructs us to check if our `root` has a `left` node set. If the root does, we will then send the `left` node to our `preOrder` method recrusively. This means that we make another function, where `B` is our new `root`.
+This means that we will out the `root.value` pit tp tje console. Then, our next block of code instructs us to check if our `root` has a `left` node set. If the root does, we will then send the `left` node to our `preOrder` method recrusively. This means that we make another function, where `B` is our new `root`. 
+
+
+
+The process continues until we reach a leaf node. Here's the state of our treee when we hit our first leaf `D`:
+
+
+![preorder](/401-notes/assets/pre5.png) 
+
+It's important to note a few things that are about to happen:
+
+  - The program will look for both a `root.left` and `root.right`. Both will return null, so it will end the execution of that method call
+  - `D` will pop off the call stack and the `root` will be reassigned back to `B`
+    - This is the heart of recursion: when we complete a function call, we pop it off the stack and are able to continue execution through the preious function call 
+
+![preorder](/401-notes/assets/pre7.png)  
+
+The code block will now pick up where it left off when `B` was the root. Since it already looked for `root.left`, it will now look for `root.right`
