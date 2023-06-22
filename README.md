@@ -144,4 +144,4 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [Hooks](/401-notes/class-27.md)
 
-[useEffec  Hook](/401-notes/class-28.md)
+[useEffect  Hook](/401-notes/class-28.md)
