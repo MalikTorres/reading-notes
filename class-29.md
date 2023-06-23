@@ -1,3 +1,5 @@
+## Class 29 notes
+
 What is the motivation for adding a reducer?
 
 You can consolidate all the state update logic outside of components in a single function, called a reducer.
