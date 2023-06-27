@@ -149,3 +149,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Reducers](/401-notes/class-29.md)
 
 [HashTable](/401-notes/hashtables.md)
+
+
+[useContext](/401-notes/class-31.md)
