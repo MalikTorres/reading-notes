@@ -152,3 +152,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 
 [useContext](/401-notes/class-31.md)
+
+
+[Behaviors](/401-notes/class-32.md)
