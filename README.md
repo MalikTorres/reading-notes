@@ -150,11 +150,8 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 [HashTable](/401-notes/hashtables.md)
 
-
 [useContext](/401-notes/class-31.md)
 
-
 [Behaviors](/401-notes/class-32.md)
-
 
 [React cookies](/401-notes/class-33.md)
