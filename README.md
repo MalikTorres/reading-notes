@@ -157,3 +157,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [React cookies](/401-notes/class-33.md)
 
 [Api Integration](/401-notes/class-34.md)
+
+[Graphs](/401-notes/graphs.md)
