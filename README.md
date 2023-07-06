@@ -159,3 +159,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Api Integration](/401-notes/class-34.md)
 
 [Graphs](/401-notes/graphs.md)
+
+[Application State with Redux](/401-notes/class-36.md)
