@@ -161,3 +161,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Graphs](/401-notes/graphs.md)
 
 [Application State with Redux](/401-notes/class-36.md)
+
+[Redux - Combined Reducers](/401-notes/class-37.md)
