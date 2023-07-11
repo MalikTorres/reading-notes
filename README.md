@@ -165,3 +165,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 [Redux - Combined Reducers](/401-notes/class-37.md)
 
 [Redux - Asyncronous Actions](/401-notes/class-38.md)
+
+
+[Redux - Additional Topics](/401-notes/class-39.md)
