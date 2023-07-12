@@ -168,3 +168,5 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 
 [Redux - Additional Topics](/401-notes/class-39.md)
+
+[Frameworks](/401-notes/class-40.md)
