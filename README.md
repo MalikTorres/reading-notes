@@ -175,3 +175,6 @@ This site is a collection of all of my notes overtime as I progress on my journe
 
 
 [React-Native](/401-notes/react-native.md)
+
+
+[Ethics](/401-notes/ethics.md)
